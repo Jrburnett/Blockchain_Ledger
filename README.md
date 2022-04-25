@@ -19,6 +19,6 @@ sender data, reciever data, and amount data.
 ## Step 4 Test the application
 In this section I tested the application and took screenshots of the results which can be seen below.
 
-![Screen Shot 2022-04-25 at 10.11.22 AM.png](/Users/jacobburnett/Documents/GitHub/Blockchain_Ledger/Screen Shot 2022-04-25 at 10.11.22 AM.png)
+![streamlit_validation.png](/Users/jacobburnett/Documents/GitHub/Blockchain_Ledger/streamlit_validation.png)
 
-![Screen Shot 2022-04-25 at 10.13.48 AM.png](/Users/jacobburnett/Documents/GitHub/Blockchain_Ledger/Screen Shot 2022-04-25 at 10.13.48 AM.png)
+![streamlit_validation_2.png](/Users/jacobburnett/Documents/GitHub/Blockchain_Ledger/streamlit_validation_2.png)
