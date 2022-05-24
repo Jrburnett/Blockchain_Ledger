@@ -19,6 +19,6 @@ sender data, reciever data, and amount data.
 ## Step 4 Test the application
 In this section I tested the application and took screenshots of the results which can be seen below.
 
-![streamlit_validation.png](/Users/jacobburnett/Documents/GitHub/Blockchain_Ledger/streamlit_validation.png)
+![image]("/Users/jacobburnett/Documents/GitHub/Blockchain_Ledger/streamlit_validation.png")
 
-![streamlit_validation_2.png](/Users/jacobburnett/Documents/GitHub/Blockchain_Ledger/streamlit_validation_2.png)
+![image]("/Users/jacobburnett/Documents/GitHub/Blockchain_Ledger/streamlit_validation_2.png")
