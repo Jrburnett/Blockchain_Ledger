@@ -1,8 +1,6 @@
 # PyChain Ledger
 ################################################################################
-# You’ll make the following updates to the provided Python file for this
-# Challenge, which already contains the basic `PyChain` ledger structure that
-# you created throughout the module:
+
 
 # Step 1: Create a Record Data Class
 # * Create a new data class named `Record`. This class will serve as the
